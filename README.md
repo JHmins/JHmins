@@ -1,15 +1,21 @@
 ## Hi there 👋
 
+![Cherryblossom-Temple](https://user-images.githubusercontent.com/69412499/221340964-03108ed0-5434-415a-86e7-c943507e6939.gif)
+
 ### 💬 About Me?
 - 💖 ML/DL 엔지니어가 되고 싶은 23살 풋내기 개발자!
 
 ### 🛠 My Tech Stacks 🛠
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,sqlite,bootstrap,stackoverflow,github,git,gitlab,md,visualstudio,vscode&perline=10)](https://skillicons.dev)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-FF9E0F?style=flat&logo=MySQL)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab)
 
 ### 🏆 My Ranking
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=run77)](https://solved.ac/run77)
