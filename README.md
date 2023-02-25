@@ -5,7 +5,7 @@
 ### 💬 About Me?
 - 💖 ML/DL 엔지니어가 되고 싶은 23살 풋내기 개발자!
 
-### 🛠 My Tech Stacks 🛠
+### 🛠 My Tech Tools and Services 🛠
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,sqlite,bootstrap,stackoverflow,git,github,gitlab,md,vscode,visualstudio&perline=7)](https://skillicons.dev)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-FF9E0F?style=flat&logo=MySQL)
