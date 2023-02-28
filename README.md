@@ -3,7 +3,7 @@
 ![Cherryblossom-Temple](https://user-images.githubusercontent.com/69412499/221340964-03108ed0-5434-415a-86e7-c943507e6939.gif)
 
 ### 💬 About Me?
-- 💖 ML/DL 엔지니어가 되고 싶은 23살 풋내기 개발자!
+- 💖 ML/DL(Ai) 엔지니어가 되고 싶은 23살 풋내기 개발자!
 
 ### 🛠 My Tech Tools and Services 🛠
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,sqlite,bootstrap,stackoverflow,git,github,gitlab,md,vscode,visualstudio&perline=7)](https://skillicons.dev)
