@@ -1,9 +1,11 @@
 # Hi there 👋
 
+![Cherryblossom-Temple](https://user-images.githubusercontent.com/69412499/221340964-03108ed0-5434-415a-86e7-c943507e6939.gif)
+
+---
+
 > **보안관제·침해대응 분야로 성장 중인 신입입니다.**
 > 작은 신호 하나도 놓치지 않는 태도로, 위협을 가장 먼저 알아채는 사람을 목표로 합니다.
-
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Detect%F0%9F%94%8D%22%2C%22color%22%3A%22%232e75b6%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22Respond%F0%9F%9A%A8%22%2C%22color%22%3A%22%232e75b6%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22Protect%F0%9F%94%92%22%2C%22color%22%3A%22%232e75b6%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.16666666666666666%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 ---
 
@@ -16,23 +18,16 @@
 ---
 
 ### 🛠 Tech & Tools 🛠
-
 #### 🛡️ Security
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-00A6CE?style=flat&logo=tenable&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/-OpenVAS-4C9A2A?style=flat&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
-#### 💻 Language & Data
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,pytorch,tensorflow,pandas,numpy,jupyter,opencv,anaconda&perline=10)](https://skillicons.dev)
-#### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5)](https://skillicons.dev)
-#### ⚙️ Dev & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,bash,md,docker,linux,ubuntu,nginx,postman&perline=13)](https://skillicons.dev)
+[![Security](https://skillicons.dev/icons?i=kali,linux,bash,docker&perline=4)](https://skillicons.dev)
 #### ☁️ Cloud
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform&perline=4)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform&perline=4)](https://skillicons.dev)
+#### 🌐 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,wordpress&perline=6)](https://skillicons.dev)
+#### 💻 Language & Data
+[![Language & Data](https://skillicons.dev/icons?i=py,mysql,sqlite,pytorch,tensorflow,opencv,anaconda&perline=7)](https://skillicons.dev)
+#### ⚙️ Dev & Tools
+[![Dev & Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,bash,md,docker,linux,ubuntu,nginx,vim&perline=11)](https://skillicons.dev)
 
 ---
 
@@ -41,6 +36,8 @@
 - **시스템·웹 모의해킹** — KISA 주요정보통신기반시설 가이드·OWASP Top 10 기준으로 취약점 진단. Nessus·OpenVAS 스캔, Metasploit 모의 침투 및 플래그 확보 후 결과보고서 작성. *공격을 이해해 방어를 설계하는* 관점을 익힘.
 - **2025 DRB Space Challenge 본선 입선 (1인 팀, 'MoonLink')** — 달 통신 환경을 AI/ML로 분석한 연구를 기획·발표까지 1인 팀으로 단독 수행.
 - **LG유플러스 데이터 라벨링/전처리** — AI 콜센터용 STT 데이터 검수·개인정보 마스킹. 하루 평균 235건 처리(동료 대비 약 20%↑), 재검수로 데이터 품질 향상.
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?border=false&lines=%5B%7B%22text%22%3A%22Detect%F0%9F%94%8D%22%2C%22color%22%3A%22%232e75b6%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22Respond%F0%9F%9A%A8%22%2C%22color%22%3A%22%232e75b6%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.16666666666666666%7D%2C%7B%22text%22%3A%22Protect%F0%9F%94%92%22%2C%22color%22%3A%22%232e75b6%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.16666666666666666%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 ---
 
